@@ -24,6 +24,7 @@ https://hw-45-seven.vercel.app/
 
 ## Структура проєкту
 
+```
 my-redux-app/
 ├── src/
 │ ├── redux/
@@ -39,3 +40,4 @@ my-redux-app/
 │ └── index.css
 ├── package.json
 └── README.md
+```
